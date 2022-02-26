@@ -1,5 +1,5 @@
-# ConsultaDolarHG
-Consulta cotação do Dolar em Bolsa de valor pelo HG Brasil
+# Consulta Cotação do Dolar
+Consulta cotação do Dolar em Bolsa de valor pelo API do HG Brasil
 
 Aplicação rodando <br />
 ![image](https://user-images.githubusercontent.com/63116029/155861894-f129a718-679c-4773-8cdd-1f8ea121b9d5.png)
